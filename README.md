@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Nicole Jenks)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(For this assignment we had to summarize five key concepts and then edit them into our index.html file. )
+
+## View Project:
+(https://nicolejenkss.github.io/lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned about the advantages of using Versioning Control System.)
+2. (I learned about the different GIT commands.)
+3. (I learned about the history og GIT, and why it was created.)
 
