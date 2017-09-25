@@ -19,5 +19,5 @@ Web Application Development
 ## Lessons Learned in the Assignment:
 1. (I learned about the advantages of using Versioning Control System.)
 2. (I learned about the different GIT commands.)
-3. (I learned about the history og GIT, and why it was created.)
+3. (I learned about the history of GIT, and why it was created.)
 
